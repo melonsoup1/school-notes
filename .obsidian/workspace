@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RSM/Geometry and Trig.md",
+            "file": "RSM/Pre-Calculus.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RSM/Geometry and Trig.md",
+            "file": "RSM/Pre-Calculus.md",
             "mode": "preview",
             "source": true
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RSM/Geometry and Trig.md",
+                "file": "RSM/Pre-Calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RSM/Geometry and Trig.md",
+                "file": "RSM/Pre-Calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RSM/Geometry and Trig.md"
+                "file": "RSM/Pre-Calculus.md"
               }
             }
           },
@@ -160,8 +160,8 @@
   },
   "active": "690e01b994ae6b5b",
   "lastOpenFiles": [
-    "RSM/Pre-Calculus.md",
     "RSM/Geometry and Trig.md",
+    "RSM/Pre-Calculus.md",
     "Pasted image 20221009011831.png",
     "Pasted image 20221009011905.png",
     "Pasted image 20221009011922.png",
