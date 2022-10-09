@@ -9,18 +9,18 @@
 # Conic Sections
 
 #### Circles: 
-![[Pasted image 20221009011831.png]]
+![[Pasted image 20221009012230.png]]
  * Standard Equation: $$(x-h)^2+(y-k)^2=r^2$$
  * Where $(h, k)$ is the center and $(x, y)$ is a point on the circle
 
 #### Parabolas:
-![[Pasted image 20221009011922.png]]
+![[Pasted image 20221009012244.png]]
 * Standard Equation (vertical): $$(y-k)=\frac{1}{4p}(x-h)^2$$
 * Standard Equation (horizontal): $$(x-h)=\frac{1}{4p}(y-k)^2$$
 * Where $(h, k)$ is the vertex, $p$ is the distance between the vertex and the focus/directrix, and $(x, y)$is a point on the parabola
 
 #### Ellipses:
-![[Pasted image 20221009011942.png]]
+![[Pasted image 20221009012303.png]]
 * Standard Equation (vertical): $$\frac{(x-h)^2}{a^2}+\frac{(y-k)^2}{b^2}=1$$
 * Standard Equation (horizontal): $$\frac{(x-h)^2}{b^2}+\frac{(y-k)^2}{a^2}=1$$
 * Formula for Foci: $$a^2=b^2+c^2$$
