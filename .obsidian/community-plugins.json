@@ -1,5 +1,7 @@
 [
   "table-editor-obsidian",
   "obsidian-auto-split",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-functionplot",
+  "calendar"
 ]
