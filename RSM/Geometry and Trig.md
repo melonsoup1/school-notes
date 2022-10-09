@@ -30,4 +30,6 @@
 * The major axis is the distance from the center to the vertices (farther), and the minor axis is the distance from the center to the co-vertices (closer)
 * The eccentricity of a ellipse is a measure of how far it is from a circle, higher being further, represented by $e$
 
+#### Hyperbolas
+
 
