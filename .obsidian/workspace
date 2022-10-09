@@ -146,9 +146,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "d121f54068065dbe",
+  "active": "cd46526d89df780c",
   "lastOpenFiles": [
     "RSM/Pre-Calculus.md",
     "RSM/Geometry and Trig.md"
