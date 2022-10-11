@@ -10,7 +10,7 @@
 #### Composition of Functions:
 * A composition of functions is a combination of two or more functions embedded inside each other as a function of a function - the analytical expression of one function is substituded for $x$ into another function.
 * **Definition:** The composition of the functions $f(x)$ and $g(x)$, denoted $f\circ g$, is defined as $(f\circ g)(x)=f(g(x))$.
-* The domain of $f\circ g$ is the set of all $x$'s in the domain of $g(x)$ for which the value of $g(x)$ is in the domain of $f(x)$.
+* The domain of $f\circ g$ is equal to the domains of $(f\circ g) \cap g(x)$
 
 #### Inverse Functions:
 * An inverse function to a function is like what addition is to subtraction.
