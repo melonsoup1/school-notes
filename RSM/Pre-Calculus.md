@@ -25,7 +25,7 @@
 * An inverse function to a function is like what addition is to subtraction.
 * **Definition**: A function $g(x)$ is the inverse of function $f$ if $g(f(x))=x$ for every $x$ in the domain of $f(x)$, and $f(g(x))=x$ for every $x$ in the domain of $g(x)$.
 * The graph of $f^{-1}(x)$ is the same as $f(x)$ but reflected about the line $y=x$.
-* To test the invertibility of a function, do the horizontal line test, where every $y$ must have a unique $x$.
+* **Horizontal Line Test:** A function is one-to-one if any horizontal line intersects the graph at exactly one point. A function satisfying the horizontal line test is invertible.
 * To get an inverse function, one must:
 	1. Replace $f(x)$ with $y$
 	2. Interchange $x$ and $y$
