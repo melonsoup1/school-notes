@@ -14,7 +14,7 @@
 
 #### Inverse Functions:
 * An inverse function to a function is like what addition is to subtraction.
-* **Definition**: The inverse function of a function $f(x)$ is a function that undoes the operation of $f$.
+* **Definition**: The inverse function of a function $f(x)$ is a function that undoes the operation of $f$. That is, if $f(x)$ produces $y$, then putting $y$ into the inverse of $f$ produces the output $x$. A function $f(x)$ that has an inverse is called invertible and the inverse is denoted by $f^{-1}$.
 * The graph of $f^{-1}(x)$ is the same as $f(x)$ but reflected about the line $y=x$.
 * **Horizontal Line Test:** A function is one-to-one if any horizontal line intersects the graph at exactly one point. A function satisfying the horizontal line test is invertible.
 * To get an inverse function, one must:
