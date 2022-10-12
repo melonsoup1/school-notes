@@ -17,6 +17,18 @@
         "group": "cb2256764983d684"
       },
       {
+        "id": "014718256b80930a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
         "id": "c86e8f9788da081c",
         "type": "leaf",
         "state": {
@@ -161,8 +173,9 @@
   },
   "active": "690e01b994ae6b5b",
   "lastOpenFiles": [
-    "RSM/Geometry and Trig.md",
+    "conflict-files-obsidian-git.md",
     "RSM/Pre-Calculus.md",
+    "RSM/Geometry and Trig.md",
     "Pasted image 20221009011831.png",
     "Pasted image 20221009011905.png",
     "Pasted image 20221009011922.png",
