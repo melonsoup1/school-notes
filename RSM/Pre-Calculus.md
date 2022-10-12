@@ -23,7 +23,6 @@
 
 #### Inverse Functions:
 * An inverse function to a function is like what addition is to subtraction.
-* **Definition**: A function $g(x)$ is the inverse of function $f$ if $g(f(x))=x$ for every $x$ in the domain of $f(x)$, and $f(g(x))=x$ for every $x$ in the domain of $g(x)$.
 * The graph of $f^{-1}(x)$ is the same as $f(x)$ but reflected about the line $y=x$.
 * To test the invertibility of a function, do the horizontal line test, where every $y$ must have a unique $x$.
 * To get an inverse function, one must:
