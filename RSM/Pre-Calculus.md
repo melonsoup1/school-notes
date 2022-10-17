@@ -1,4 +1,4 @@
-# Functions
+  # Functions
 #### Odd and Even Functions:
 * **Definition:** A function $f(x)$ for which $f(-x)=f(x)$ for any value of $x$ in the domain of $f$ is called an **even function** and its graph is symmetric about the y-axis.
 * **Definition:** A function $f(x)$ for which $f(-x)=-f(x)$ for any value of $x$ in the domain of $f$ is called an **odd function** and its graph is symmetric about the origin.
@@ -23,3 +23,5 @@
 	3. Solve for $y$
 	4. Replace $y$ with $f^{-1}(x)$
 	5. Exchange domain and range
+
+# Complex Numbers
