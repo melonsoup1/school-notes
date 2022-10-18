@@ -24,4 +24,4 @@
 	4. Replace $y$ with $f^{-1}(x)$
 	5. Exchange domain and range
 
-# Complex Numbers
+
