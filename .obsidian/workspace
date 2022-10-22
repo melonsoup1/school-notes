@@ -9,25 +9,25 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RSM/Pre-Calculus.md",
+            "file": "School/Biology 9.md",
             "mode": "source",
             "source": true
           }
         },
-        "group": "cb2256764983d684"
+        "group": "3ded3f69538202c7"
       },
       {
-        "id": "c86e8f9788da081c",
+        "id": "a1ac716fb6741323",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RSM/Pre-Calculus.md",
+            "file": "School/Biology 9.md",
             "mode": "preview",
             "source": true
           }
         },
-        "group": "cb2256764983d684"
+        "group": "3ded3f69538202c7"
       }
     ],
     "direction": "vertical"
@@ -75,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 159.5
+    "width": 151.5
   },
   "right": {
     "id": "18438677888eb94c",
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RSM/Pre-Calculus.md",
+                "file": "School/Biology 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RSM/Pre-Calculus.md",
+                "file": "School/Biology 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RSM/Pre-Calculus.md"
+                "file": "School/Biology 9.md"
               }
             }
           },
@@ -159,17 +159,26 @@
     "width": 278.5,
     "collapsed": true
   },
-  "active": "690e01b994ae6b5b",
+  "active": "a1ac716fb6741323",
   "lastOpenFiles": [
     "RSM/Geometry and Trig.md",
+    "School/Biology 9.md",
     "RSM/Pre-Calculus.md",
+<<<<<<< HEAD
     "conflict-files-obsidian-git.md",
     "Pasted image 20221009011831.png",
     "Pasted image 20221009011905.png",
     "Pasted image 20221009011922.png",
     "Pasted image 20221009011942.png",
     "Pasted image 20221009012230.png",
+=======
+    "circle.png",
+    "ellipse.png",
+    "vertical and horizontal parabola.png",
+    "Pasted image 20221009012303.png.md",
+    "Pasted image 20221009012303.png",
+>>>>>>> origin/master
     "Pasted image 20221009012244.png",
-    "Pasted image 20221009012303.png"
+    "Pasted image 20221009012230.png"
   ]
 }

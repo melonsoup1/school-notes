@@ -1,9 +1,13 @@
 {
   "livePreview": false,
+<<<<<<< HEAD
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
   }
+=======
+  "promptDelete": false
+>>>>>>> origin/master
 }
