@@ -4,30 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "690e01b994ae6b5b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "RSM/Pre-Calculus.md",
-            "mode": "source",
-            "source": true
+        "id": "8eadb601b3cbc033",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "690e01b994ae6b5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RSM/Pre-Calculus.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "ad1cfb05f84dc511"
+          },
+          {
+            "id": "d3d64c5684e75501",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RSM/Geometry and Trig.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "d153f1571b7b25e4"
           }
-        },
-        "group": "cb2256764983d684"
+        ],
+        "currentTab": 1
       },
       {
-        "id": "c86e8f9788da081c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "RSM/Pre-Calculus.md",
-            "mode": "preview",
-            "source": true
+        "id": "920a4321fccca3fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f1f32dc7fdf90e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RSM/Pre-Calculus.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "ad1cfb05f84dc511"
+          },
+          {
+            "id": "83806c9ca39dfc22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RSM/Geometry and Trig.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "d153f1571b7b25e4"
           }
-        },
-        "group": "cb2256764983d684"
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -45,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -91,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RSM/Pre-Calculus.md",
+                "file": "RSM/Geometry and Trig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RSM/Pre-Calculus.md",
+                "file": "RSM/Geometry and Trig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RSM/Pre-Calculus.md"
+                "file": "RSM/Geometry and Trig.md"
               }
             }
           },
@@ -159,10 +201,13 @@
     "width": 278.5,
     "collapsed": true
   },
-  "active": "690e01b994ae6b5b",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "83806c9ca39dfc22",
   "lastOpenFiles": [
-    "RSM/Geometry and Trig.md",
     "RSM/Pre-Calculus.md",
+    "RSM/Geometry and Trig.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20221009011831.png",
     "Pasted image 20221009011905.png",
