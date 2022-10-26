@@ -44,3 +44,12 @@
 	* Intermolecular bonds formed between the partial positive charge of a hydrogen atom in one molecule and the partial negative charge found in a strong electronegative atom of another molecule.
 	* Hydrogen bonds can only form between hydrogen and either oxygen, nitrogen, or fluorine.
 
+#### Acids and Bases:
+**Acids:** molecules that generate protons ($H^+$ ions) in solution.
+
+**Bases:** molecules that generate hydroxide ($OH^-$) ions in solution.
+
+**pH Scale:** a scale used to describe how acidic or basic a solution is. A low pH ($<7$) indicates an acidic solution, and a high pH ($>7$) indicates basic solution. $$pH=-log[H^+]$$
+
+**Ocean Acidification:** Carbon dioxide, which is naturally in the atmosphere, dissolves into seawater. Water and carbon dioxide combine to form carbonic acid ($H_2CO_3$), a weak acid that breaks (or "dissociates") into hydrogen ions ($H^+$), and bicarbonate ions ($HCO_{3-}$). The amount of carbonic acid has increased over the past 150 years, and these changes in ocean chemistry can disrupt the entire marine food web.
+

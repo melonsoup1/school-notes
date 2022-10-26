@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "bfee0bc3ecf33454",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e4ab33a80b5f230",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "690e01b994ae6b5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Biology 9.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "3ded3f69538202c7"
+          }
+        ]
+      },
+      {
+        "id": "7551a80ea6c55e73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1ac716fb6741323",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Biology 9.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "3ded3f69538202c7"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ab9a3a5a64cd05e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1ae68b2b60aa5d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abbb7c89a694aee6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7806c1acbb626485",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b5b10da3053ce9c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 151.5
+  },
+  "right": {
+    "id": "18438677888eb94c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8d0d7442f1bd341",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "442fd3fb90c1bb6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "School/Biology 9.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d7f1068307ee4e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "School/Biology 9.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b93752860a0b9ab0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d121f54068065dbe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "School/Biology 9.md"
+              }
+            }
+          },
+          {
+            "id": "54177a7586d6c399",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6e3e8c1318859f09",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "a1ac716fb6741323",
+  "lastOpenFiles": [
+    "RSM/Geometry and Trig.md",
+    "RSM/Pre-Calculus.md",
+    "School/Biology 9.md",
+    "circle.png",
+    "ellipse.png",
+    "vertical and horizontal parabola.png",
+    "Pasted image 20221009012303.png.md",
+    "Pasted image 20221009012303.png",
+    "Pasted image 20221009012244.png",
+    "Pasted image 20221009012230.png"
+  ]
+}
