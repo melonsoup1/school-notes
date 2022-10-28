@@ -1,4 +1,4 @@
-# Chemistry of Life - Macromolecules
+# Chemistry
 **Matter:** anything that has mass and takes up space.
 
 #### States of Matter (that matter):
@@ -49,7 +49,25 @@
 
 **Bases:** molecules that generate hydroxide ($OH^-$) ions in solution.
 
-**pH Scale:** a scale used to describe how acidic or basic a solution is. A low pH ($<7$) indicates an acidic solution, and a high pH ($>7$) indicates basic solution. $$pH=-log[H^+]$$
+**pH Scale:** a scale used to describe how acidic or basic a solution is. A low pH ($<7$) indicates an acidic solution, and a high pH ($>7$) indicates basic solution. The formula for pH is: $$pH=-log[H^+]$$
 
-**Ocean Acidification:** Carbon dioxide, which is naturally in the atmosphere, dissolves into seawater. Water and carbon dioxide combine to form carbonic acid ($H_2CO_3$), a weak acid that breaks (or "dissociates") into hydrogen ions ($H^+$), and bicarbonate ions ($HCO_{3-}$). The amount of carbonic acid has increased over the past 150 years, and these changes in ocean chemistry can disrupt the entire marine food web.
+This is caused by the fact that pH is the ratio of acids to bases in an solvent, and you have to take the negative log of a fraction to get a positive integer, which is your pH measurement
+
+**Ocean Acidification:** Carbon dioxide, which is naturally in the atmosphere, dissolves into seawater. Water and carbon dioxide combine to form carbonic acid ($\ce{H_2CO_3}$), a weak acid that breaks (or "dissociates") into hydrogen ions ($H^+$), and bicarbonate ions ($\ce{HCO_3^-}$). The amount of carbonic acid has increased over the past 150 years, and these changes in ocean chemistry can disrupt the entire marine food web.
+
+# Biochemistry
+
+**Definition:** chemical composition and reaction in living systems
+
+**Organic:** carbon containing compound
+
+**Inorganic:** not containing carbon
+
+**Macromolecules:**
+* carbohydrates
+* lipids
+* proteins
+* nucleic acids
+
+**Hydrocarbon:** contains carbon and hydrogen
 
