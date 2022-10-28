@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RSM/Pre-Calculus.md",
+                "file": "RSM/Geometry and Trig.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RSM/Pre-Calculus.md",
+                "file": "RSM/Geometry and Trig.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RSM/Pre-Calculus.md",
+                "file": "RSM/Geometry and Trig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RSM/Pre-Calculus.md",
+                "file": "RSM/Geometry and Trig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RSM/Pre-Calculus.md"
+                "file": "RSM/Geometry and Trig.md"
               }
             }
           },
@@ -178,8 +178,8 @@
   },
   "active": "d3d64c5684e75501",
   "lastOpenFiles": [
-    "RSM/Geometry and Trig.md",
     "RSM/Pre-Calculus.md",
+    "RSM/Geometry and Trig.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20221009011831.png",
     "Pasted image 20221009011905.png",
