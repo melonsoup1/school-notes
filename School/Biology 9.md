@@ -57,17 +57,27 @@ This is caused by the fact that pH is the ratio of acids to bases in an solvent,
 
 # Biochemistry
 
-**Definition:** chemical composition and reaction in living systems
+**Definition:** chemical composition and reaction in living systems.
 
-**Organic:** carbon containing compound
+**Organic:** carbon containing compound.
 
-**Inorganic:** not containing carbon
+**Inorganic:** not containing carbon.
 
 **Macromolecules:**
-* carbohydrates
-* lipids
-* proteins
-* nucleic acids
+* Carbohydrates
+* Lipids
+* Proteins
+* Nucleic acids
 
-**Hydrocarbon:** contains carbon and hydrogen
+**Hydrocarbon:** contains carbon and hydrogen.
+
+**Functional Groups:**
+* Carboxyl
+$$\ce{O=C-HO}$$
+* Amino group
+$$\ce{H-C-H}$$
+* Methyl group
+* $$\ce{~C-H-H-H}
+
+
 
