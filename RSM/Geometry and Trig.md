@@ -41,3 +41,9 @@
 * The conjugate axis is the line perpendicular to the transverse axis that passes through the center.
 * The distance between a focus and the center is represented by $c$.
 
+#### Mixed Conics
+* Given an equation: $$ax^2+bxy+cy^2+dx+ey+f=0$$
+* If $a=c$, and $b=0$, then the given equation is a circle's
+* If $b^2-4ac<0$, then the given equation is an ellipse's
+* If $b^2-4ac=0$, then the given equation is a parabola's
+* If $b^2-4ac>0$, then the given equation is a hyperbola's
