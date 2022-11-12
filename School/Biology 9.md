@@ -45,13 +45,13 @@
 	* Hydrogen bonds can only form between hydrogen and either oxygen, nitrogen, or fluorine.
 
 #### Acids and Bases:
-**Acids:** molecules that generate protons ($\ce{H^+}$ ions) in solution.
+**Acids:** molecules that generate protons ($\ce{H+}$ ions) in solution.
 
-**Bases:** molecules that generate hydroxide ($\ce{OH^-}$) ions in solution.
+**Bases:** molecules that generate hydroxide ($\ce{OH-}$) ions in solution.
 
 **pH Scale:** a scale used to describe how acidic or basic a solution is. A low pH ($<7$) indicates an acidic solution, and a high pH ($>7$) indicates basic solution. The formula for pH is: $$pH=-log[H^+]$$
 
-**Ocean Acidification:** Carbon dioxide, which is naturally in the atmosphere, dissolves into seawater. Water and carbon dioxide combine to form carbonic acid ($\ce{H2CO3}$), a weak acid that breaks (or "dissociates") into hydrogen ions ($\ce{H^+}$), and bicarbonate ions ($\ce{HCO3^-}$). The amount of carbonic acid has increased over the past 150 years, and these changes in ocean chemistry can disrupt the entire marine food web.
+**Ocean Acidification:** Carbon dioxide, which is naturally in the atmosphere, dissolves into seawater. Water and carbon dioxide combine to form carbonic acid ($\ce{H2CO3}$), a weak acid that breaks (or "dissociates") into hydrogen ions ($\ce{H+}$), and bicarbonate ions ($\ce{HCO3-}$). The amount of carbonic acid has increased over the past 150 years, and these changes in ocean chemistry can disrupt the entire marine food web.
 
 # Biochemistry
 
@@ -89,13 +89,49 @@
 	* Sugars composed of two simple sugars are called disaccharides
 	* Complex carbohydrates, or polysaccharides, are made by combining more and more simple sugars.
 * Carbohydrates function as:
-	* dietary staple in most parts of the world – sugar and starch
+	* dietary staple in most parts of the world - sugar and starch
 	* energy storage - glucose, glycogen, starch
 	* structural components in cells 
 	* chitin in the exoskeleton of insects and other arthropods.
 	* cellulose in plants - support
 	* biochemical markers on the surface of plasma cells (a type of immune cell that makes large amounts of a specific antibody)
 
+**Lipids:**
+* Composed of carbon, hydrogen, and oxygen
+* Lipid functions:
+	* long term energy storage in the body - fats
+	* structural components of cell membrane
+	* insulation
+	* chemical messengers within the body
+* Saturated vs, Unsaturated Fats
+	* Simple and more complex
+		* simple - three identical fatty acids
+		* complex - different fatty acids
+	* Fats are hydrophobic because although the ester bond is polar, it is buried in a nonpolar environment (the glycerol backbone and chains of fatty acids) to triglycerides are insoluble in water.
+* **Phospholids** are composed of a "head" (phosphate group and a glycerol, hydrophilic), and a "tail"  (saturated and unsaturated fatty acid, hydrophobic)
+* Phospholipid Bilayer:
+	* Phospholipids cluster into a bilayer of phospholipids
+	* The hydrophilic heads are in contact with
+		* the water of the environment
+		* the internal part of the cell
+	* the hydrophilic tails cluster together in the center of the bilayer,
+
+**Cell Membrane:** composed of a phospholipid bilayer, cholesterol, carbohydrates, and proteins.
+
+**Steroids:** Lipids in which the carbon skeleton contains four fused rings.
+* Ex. Cholesterol is
+	* a common component in animal cell membranes
+	* a starting material for making steroids, including sex hormones
+
+**Proteins:**
+* Composed of carbon, hydrogen, nitrogen, and oxygen
+* Protein functions:
+	* Structure
+	* Transport
+	* Immunity
+	* Enzymes
+	* Cell Signaling
+ 
 
 
 
