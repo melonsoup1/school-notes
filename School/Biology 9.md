@@ -45,29 +45,58 @@
 	* Hydrogen bonds can only form between hydrogen and either oxygen, nitrogen, or fluorine.
 
 #### Acids and Bases:
-**Acids:** molecules that generate protons ($H^+$ ions) in solution.
+**Acids:** molecules that generate protons ($\ce{H^+}$ ions) in solution.
 
-**Bases:** molecules that generate hydroxide ($OH^-$) ions in solution.
+**Bases:** molecules that generate hydroxide ($\ce{OH^-}$) ions in solution.
 
 **pH Scale:** a scale used to describe how acidic or basic a solution is. A low pH ($<7$) indicates an acidic solution, and a high pH ($>7$) indicates basic solution. The formula for pH is: $$pH=-log[H^+]$$
 
-This is caused by the fact that pH is the ratio of acids to bases in an solvent, and you have to take the negative log of a fraction to get a positive integer, which is your pH measurement
-
-**Ocean Acidification:** Carbon dioxide, which is naturally in the atmosphere, dissolves into seawater. Water and carbon dioxide combine to form carbonic acid ($\ce{H_2CO_3}$), a weak acid that breaks (or "dissociates") into hydrogen ions ($H^+$), and bicarbonate ions ($\ce{HCO_3^-}$). The amount of carbonic acid has increased over the past 150 years, and these changes in ocean chemistry can disrupt the entire marine food web.
+**Ocean Acidification:** Carbon dioxide, which is naturally in the atmosphere, dissolves into seawater. Water and carbon dioxide combine to form carbonic acid ($\ce{H2CO3}$), a weak acid that breaks (or "dissociates") into hydrogen ions ($\ce{H^+}$), and bicarbonate ions ($\ce{HCO3^-}$). The amount of carbonic acid has increased over the past 150 years, and these changes in ocean chemistry can disrupt the entire marine food web.
 
 # Biochemistry
 
-**Definition:** chemical composition and reaction in living systems
+**Definition:** chemical composition and reaction in living systems.
 
-**Organic:** carbon containing compound
+**Organic:** carbon containing compound.
 
-**Inorganic:** not containing carbon
+**Inorganic:** not containing carbon.
 
-**Macromolecules:**
-* carbohydrates
-* lipids
-* proteins
-* nucleic acids
+#### Macromolecules:
+* Carbohydrates (starch)
+* Lipids (triacylglycerol)
+* Proteins (enzyme)
+* Nucleic acids (DNA)
 
-**Hydrocarbon:** contains carbon and hydrogen
+**Hydrocarbon:** contains carbon and hydrogen.
+
+**Functional Group:** Groups of atoms attached to carbon skeletons that give molecules their unique properties. Some functional groups include:
+* Hydroxyl group ($\ce{-OH}$)
+* Carbonyl group ($\ce{--C=O}$)
+* Carboxyl group ($\ce{-COOH}$)
+* Amino group ($\ce{-NH2}$)
+* Phosphate group ($\ce{-OPO3^2-}$)
+* Methyl group ($\ce{-CH3}$)
+
+**Polymer Formation:** Large molecules that are made of repeating building blocks (monomers) that are connected together during polymerization
+
+**Life's Backbone:** Most of the compounds that make up living things contain carbon. In fact, carbon makes up the basic structure, or "backbone," of these compounds. Each atom of carbon forms four bonds with other atoms, including other carbons, making it capable of forming very large molecules.
+
+**Carbohydrates:**
+* Composed of carbon, hydrogen and oxygen in an $1:2:1$ ratio.
+* Simply put, they are "sugars":
+	* Sugars are the major energy storage molecules for living organisms.
+	* Simple sugars are known as monosaccharides.
+	* Sugars composed of two simple sugars are called disaccharides
+	* Complex carbohydrates, or polysaccharides, are made by combining more and more simple sugars.
+* Carbohydrates function as:
+	* dietary staple in most parts of the world – sugar and starch
+	* energy storage - glucose, glycogen, starch
+	* structural components in cells 
+	* chitin in the exoskeleton of insects and other arthropods.
+	* cellulose in plants - support
+	* biochemical markers on the surface of plasma cells (a type of immune cell that makes large amounts of a specific antibody)
+
+
+
+
 
