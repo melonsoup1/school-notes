@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RSM/Geometry and Trig.md",
+                "file": "RSM/c.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             },
             "group": "d153f1571b7b25e4"
@@ -32,9 +32,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RSM/Geometry and Trig.md",
-                "mode": "preview",
-                "source": true
+                "file": "RSM/c.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "d153f1571b7b25e4"
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RSM/Geometry and Trig.md",
+                "file": "RSM/c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RSM/Geometry and Trig.md",
+                "file": "RSM/c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RSM/Geometry and Trig.md"
+                "file": "RSM/c.md"
               }
             }
           },

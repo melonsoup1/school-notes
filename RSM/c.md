@@ -47,3 +47,5 @@
 * If $b^2-4ac<0$, then the given equation is an ellipse's
 * If $b^2-4ac=0$, then the given equation is a parabola's
 * If $b^2-4ac>0$, then the given equation is a hyperbola's
+
+# Trigonometry
