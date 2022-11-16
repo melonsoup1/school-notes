@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "9c9f6397744cc0cf",
+        "id": "3e4ab33a80b5f230",
         "type": "tabs",
         "children": [
           {
-            "id": "09e004574f1489cc",
+            "id": "690e01b994ae6b5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RSM/Geometry and Trig.md",
+                "file": "School/Biology 9.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "31dca710d6b8a004"
+            "group": "3ded3f69538202c7"
           }
         ]
       },
       {
-        "id": "b15fb1563e5b0186",
+        "id": "7551a80ea6c55e73",
         "type": "tabs",
         "children": [
           {
-            "id": "5653137668749679",
+            "id": "a1ac716fb6741323",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RSM/Geometry and Trig.md",
+                "file": "School/Biology 9.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "31dca710d6b8a004"
+            "group": "3ded3f69538202c7"
           }
         ]
       }
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 159.5
+    "width": 151.5
   },
   "right": {
     "id": "18438677888eb94c",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RSM/Geometry and Trig.md",
+                "file": "School/Biology 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RSM/Geometry and Trig.md",
+                "file": "School/Biology 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RSM/Geometry and Trig.md"
+                "file": "School/Biology 9.md"
               }
             }
           },
@@ -164,26 +164,34 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "490266e56b2a582d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
+    "width": 200,
     "collapsed": true
   },
-  "active": "abbb7c89a694aee6",
+  "active": "690e01b994ae6b5b",
   "lastOpenFiles": [
     "RSM/Geometry and Trig.md",
     "RSM/Pre-Calculus.md",
+    "Pasted image 20221112133017.png",
+    "Pasted image 20221112133024.png",
     "School/Biology 9.md",
     "conflict-files-obsidian-git.md",
-    "Pasted image 20221112133017.png",
-    "Pasted image 20221112132212.png",
-    "Pasted image 20221112132147.png",
-    "Pasted image 20221112133024.png",
-    "RSM/c.md",
-    "Pasted image 20221009011831.png"
+    "circle.png",
+    "ellipse.png",
+    "vertical and horizontal parabola.png",
+    "Pasted image 20221009012303.png.md"
   ]
 }

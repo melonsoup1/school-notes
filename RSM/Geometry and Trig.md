@@ -51,8 +51,18 @@
 # Trigonometry
 #### Trigonometric Ratios 
 ![[Pasted image 20221112133024.png]]
-* sine of $\alpha$ $$\sin \alpha=\frac{opposite}{hypotenuse}=\frac{BC}{AB}=\frac{a}{c}$$
-* cosine of $\alpha$ $$\cos \alpha=\frac{adjacent}{hypotenuse}=\frac{AC}{AB}=\frac{b}{c}$$
-* tangent of $\alpha$ $$\tan \alpha=\frac{opposite}{adjacent}=\frac{BC}{AC}=\frac{a}{b}$$
-* cotangent of $\alpha$ $$\cot \alpha=\frac{adjacent}{opposite}=\frac{AC}{BC}=\frac{b}{a}$$
+* sine of $\alpha$ $$\sin\alpha=\frac{opposite}{hypotenuse}=\frac{BC}{AB}=\frac{a}{c}$$
+* cosine of $\alpha$ $$\cos\alpha=\frac{adjacent}{hypotenuse}=\frac{AC}{AB}=\frac{b}{c}$$
+* tangent of $\alpha$ $$\tan\alpha=\frac{opposite}{adjacent}=\frac{BC}{AC}=\frac{a}{b}$$
+* cotangent of $\alpha$ $$\cot\alpha=\frac{adjacent}{opposite}=\frac{AC}{BC}=\frac{b}{a}$$
+* secant of $\alpha$ $$\sec\alpha=\frac{1}{\cos\alpha}$$
+* cosecant of $\alpha$ $$\csc\alpha=\frac{1}{\sin\alpha}$$
+
+#### Trigonometric Identities
+* Given the figure above: 
+$$\sin^2\alpha+\cos^2\alpha=1$$
+$$\tan\alpha=\frac{\sin\alpha}{\cos\alpha}$$
+$$\cot\alpha=\frac{\cos\alpha}{\sin\alpha}$$
+$$1+\tan^2\alpha=\sec^2\alpha$$
+$$1+\cot^2\alpha=\csc^2\alpha$$
 

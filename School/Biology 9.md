@@ -123,14 +123,49 @@
 	* a common component in animal cell membranes
 	* a starting material for making steroids, including sex hormones
 
-**Proteins:**
-* Composed of carbon, hydrogen, nitrogen, and oxygen
-* Protein functions:
-	* Structure
-	* Transport
-	* Immunity
-	* Enzymes
-	* Cell Signaling
+#### Enzymes
+* Enzymes are chemicals that act as organic catalysts (a catalyst is a chemical that speeds up but is not changed by a chemical reaction)
+* Enzymes are proteins. They are needed to insure that chemical reactions in the body happen quickly and efficiently.
+* Enzymes are usually named for the substrate on which they act or the action which they perform. For example, lactase is the enzyme that breaks down the sugar lactose
+* The goal is homeostasis
+
+**Catalyst:** a molecule which increases the rate of a reaction but is not the substrate or a product of that reaction, and decreases the activation energy needed for the reaction.
+
+**Substrate:** a molecule upon which an enzyme acts to yield a product.
+
+**Activation Energy:** the amount of energy needed for a chemical reaction to begin.
+
+**Biological Catalysts:**
+* proteins (and RNA)
+* facilitate chemical reactions 
+* increase rate of reaction
+* reduce activation energy
+* not consumed in reaction
+	* single enzyme molecule can catalyze thousands or more reactions per second
+	* enzymes unaffected by the reaction
+* required for most biological reactions
+* vary in specificity
+* thousands of different enzymes in cells
+* control reactions
+
+**Competitive Inhibitors:**
+* block substrates from entering the active site
+* reduce an enzymes productivity
+
+**Noncompetitive Inhibitors:**
+* bind to the enzyme somewhere other than the active site
+* change the shape of the active site
+* prevent the substrate from binding
+
+**Factors that Affect Enzymes:**
+* enzyme concentration
+* substrate concentration
+* temperature
+* pH
+* salinity
+* activators
+* inhibitors
+
  
 
 
