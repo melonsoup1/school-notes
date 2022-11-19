@@ -125,7 +125,7 @@
 
 #### Enzymes
 * Enzymes are chemicals that act as organic catalysts (a catalyst is a chemical that speeds up but is not changed by a chemical reaction)
-* Enzymes are proteins. They are needed to insure that chemical reactions in the body happen quickly and efficiently.
+* Enzymes are proteins. They are needed to ensure that chemical reactions in the body happen quickly and efficiently.
 * Enzymes are usually named for the substrate on which they act or the action which they perform. For example, lactase is the enzyme that breaks down the sugar lactose
 * The goal is homeostasis
 
