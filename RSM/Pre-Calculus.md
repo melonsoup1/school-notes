@@ -1,4 +1,4 @@
-  # Functions
+# Functions
 #### Odd and Even Functions:
 * **Definition:** A function $f(x)$ for which $f(-x)=f(x)$ for any value of $x$ in the domain of $f$ is called an **even function** and its graph is symmetric about the y-axis.
 * **Definition:** A function $f(x)$ for which $f(-x)=-f(x)$ for any value of $x$ in the domain of $f$ is called an **odd function** and its graph is symmetric about the origin.
@@ -24,5 +24,17 @@
 	4. Replace $y$ with $f^{-1}(x)$
 	5. Exchange domain and range
 
+# Logarithms
+#### Definition: $$\log_ba=c\leftrightarrow b^c=a$$
+
+#### Fundamental Logarithmic Identities
+$$\log_b(ac)=\log_ba+\log_bc$$
+$$\log_b(\frac{a}{c})=\log_ba-\log_bc$$
+$$\log_b(a^c)=c*\log_ba$$
+$$\log_b1=0$$
+$$\log_bb=1$$
+$$\log_b(b^a)=a$$
+$$b^{\log_ba}=a$$
+$$\log_b(\frac{1}{a})=-\log_b(a)$$
 
 

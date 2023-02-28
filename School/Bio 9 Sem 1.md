@@ -166,8 +166,69 @@
 * activators
 * inhibitors
 
- 
+#### Cell Theory
+* All existing cells are produced by previously existing cells
+* All organisms are made of cells
+* The cell is the most basic unit of life
 
+**Prokaryotic Cells:**
+* simpler
+* nucleoid region instead of a nucleus
+* bacteria
+* no membrane bound organelles
 
+**Eukaryotic Cells:**
+* membrane bound organelles (smaller organelles with lipid bilayer)
+* nucleus
 
+**Cell Membrane:**
+* surrounds the cell to protect and support it
+* selectively permeable
+* keeps the cell organized
+* made of lipids and proteins
+* structure: Phospholipid bilayer
+	* Two layers
+	* Hydrophilic heads faces outwards
+	* Hydrophobic tails face inward
+	* Proteins embedde in phospholipids
+	* 
+* Function: maintains homeostasis (steady internal state) by regulating what enters/exits the cell
 
+#### Photosynthesis
+* using sun's energy to make ATP
+* using $\ce{CO_2}$ and water to make sugar
+* takes place in the chloroplast
+* allows plants to grow
+* makes a waste product
+	* oxygen ($\ce{O_2}$)
+* light reactions are driven by visible radiation
+* Photolysis
+	* $light+\ce{6CO_2}+\ce{6H_2O}\longrightarrow\ce{C_6H_12O_6}+\ce{6O_2}$
+	* Light dependent: $\ce{NADP+}\longrightarrow\ce{NADPH}$, $\ce{ADP}+\ce{Pi}\longrightarrow\ce{ATP}$
+	* Light independent; $\ce{NADPH}\longrightarrow\ce{NADP+}$, $\ce{ATP}\longrightarrow\ce{ADP}+\ce{Pi}$
+	* Needs the energy formed in light dependent reactions ($\ce{ATP}+\ce{NADPH}$) to fuel the light independent reactions (Calvin Cycle).
+
+#### RNA Transcription and Translation
+* Transcription 
+	* the process of transforming DNA into RNA
+	* takes place in the nucleus
+	* Initiation
+		* RNA Polymerase, the transcription enzyme, binds to a sequence of DNA called the promoter, found near the beginning of a gene
+		* Promoter signals start of transcription, each gene has its own promoter
+		* Once bound, RNA polymerase separates the DNA strands providing the single-stranded template
+	* Elongation
+		* one strand of DNA acts as a template for RNA polymerase
+		* RNA polymerase will build a RNA molecule out of complementary nucleotides, making a strand that grows from 5' to 3'
+		* the mRNA will look like the non-template strand of DNA, but thymine will be replaced with uracil
+	* Termination
+		* sequences called terminators signal that the RNA transcript is complete
+		* once they are transcribed, they cause the mRNA to be released from the RNA polymerase
+* Translation
+	* turning RNA into polypeptides (proteins)
+	* done by ribosomes in the cytoplasm
+		* amino acids are joined to make a polypeptide
+		* must fold to become a functioning protein
+		* mRNA is read in chunks of three called codons
+		* introns: DNA sequences does not code for proteins
+		* exons: DNA sequences codes for proteins
+		* introns cut out by enzymes and exons spliced back together
