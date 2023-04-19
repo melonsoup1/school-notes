@@ -69,3 +69,4 @@
 	* Spindle fibers retract, centrioles return to original plate in the cell 
 * **Cytokinesis**
 	* Splitting of the cytoplasm and seperation of the two daughter cells
+
