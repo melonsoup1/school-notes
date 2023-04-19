@@ -69,3 +69,76 @@
 	* Spindle fibers retract, centrioles return to original plate in the cell 
 * **Cytokinesis**
 	* Splitting of the cytoplasm and seperation of the two daughter cells
+
+**Meiosis and Genetic Variation:**
+* Both crossing-over and the random fertilization of gametes contribute to genetic variation in sexually reproducing organisms
+* Independent assortment, the random distribution of homologous chromosomes during meiosis, contributes to genetic variation in sexually reproducing organisms
+* Genetic variation is critical to the occurence of evolution
+
+#### Reproductive Anatomy
+**Definitions:**
+- Genotypic male: XY
+- Phenotypic male (for reproductive purposes)
+	- penis, testes, sperm producing
+- Genotypic female: XX
+- Phenotypic female (for reproductive purposes)
+	- vagina, uterus, ovaries, egg producing
+- Biological mother - egg donor
+- Biological father - sperm donor
+
+**Production of the Sperm:**
+Sperm cells are haploid and are produced in the seminiferous tubules within the testes. From the testes they are deposited into the epididymis where they mature and become mobile. Of the millions of sperm cells ejaculated into a female, only a few will survive to meet the egg a couple of days later. This is because the environment into which the sperm will enter is very harsh and the vast majority die:
+* no energy source
+* very acidic
+
+#### Evolution
+**Natural Selection:** the organisms best adapted to their environment will survive  
+
+**Mechanisms of Evolution:**
+* Natural Selection
+	* Individuals with the best adapted phenotypes survive and pass on genes
+	* Next generation: higher frequency of alleles for the better phenotype
+* Mutation
+	* A change in the DNA sequence
+	* Mutations create new alleles, facilitating natural selection
+* Genetic Drift
+	* Allele frequency of a population changes unpredictably to due a random process
+	* Bottleneck effect: Population shrinks then regrows
+	* Founders effect: Migration of a small subgroup
+* Gene Flow
+	* Individuals move in or out of a population, causing changes in the gene pool
+* Non-random mating
+	* If individuals choose their mates, then more desirable alleles will have a higher frequency in future populations
+
+**Species:** Group of organisms that interbreed to produce *fertile* offspring
+
+**Speciation:** Formation of new species due to evolution
+
+**How Speciation Occurs:**
+* A lack of gene flow between populations is essential to create a difference in allele frequencies, phenotypes, and then possibly species
+	* Prezygotic barriers
+		* Habitat isolation
+		* Temporal isolation (breeding at different times)
+		* Behavioral isolation (different courtship rituals)
+		* Mechanial isolation (incompatible reproductive parts)
+		* Gametical isolation (incompatible gametes)
+	* Postzygotic barriers
+		* Reduced hybrid vitality (short-lived hybrids)
+		* Reduced hybrid fertility (sterile hybrids)
+		* Hybrid breakdown (fertile hybrids with sterile offspring)
+
+**Allopatric Speciation:** Occurs when populations are separated by geological or physical barriers such as such as rivers, mountains, or bodies of water, causing geographic isolation.
+
+**Sympatric Speciation:** Occurs when speciation occurs without a physical barrier possibly due to different food sources, mating seasons, behavioral differences or other habitat characteristics.
+
+**Types of Reproductive Isolation:**
+* Prezygotic
+	* Ecological Isolation - very similar species may occupy different habitats in the same region
+	* Behavioral Isolation - differences in behaviors, such as courtship rituals – usually mating rituals
+	* Temporal Isolation - two species whose ranges overlap have different periods of sexual activity or breeding periods
+	* Mechanical Isolation - morphological differences that prevent mating or pollination
+	* Gametic Isolation- male gametes are unable to recognize and/or fertilize female gametes
+* Postzygotic
+	* Zygote Mortality – two animals are able to mate and fertilize a zygote, however it is unable to develop properly
+	* Hybrid Inviabillty – hybrid dies early in development, or makes it to maturity but dies early in life
+	* Hybrid Infertility – hybrid offspring mature to be adults but are infertile
