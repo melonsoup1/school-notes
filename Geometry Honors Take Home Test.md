@@ -11,3 +11,5 @@ First off, by the ice cream cone theorem, we can observe that: $$\frac{MD}{DR}\c
 Next, by the semiperimeter theorems 130 and 131, we can substitute like so: $$\frac{MD}{RS}\cdot\frac{RA}{FH}\cdot\frac{HE}{BM}=\frac{MD}{s-h}\cdot\frac{s-m}{FH}\cdot\frac{s-h}{s-m}$$
 After cancelling, we are left with $\frac{MD}{FH}$, and after applying the semiperimeter theorem 132, we can substitute again and get this: $$\frac{MD}{FH}=\frac{s}{s}=1$$
 Circling back, we have just proved that $\frac{MD}{DR}\cdot\frac{RF}{FH}\cdot\frac{HB}{BM}=1$, and by the converse of Ceva's theorem, we are done. Q.E.D. 
+
+#### Problem 2:
