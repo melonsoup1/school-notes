@@ -38,3 +38,4 @@ With this equation, we can conclude that $HM=MQ$, which proves that point $M$ is
 In the diagram, we are given that points $P$, $N$, and $M$ are the midpoints of $\overline{AB}$, $\overline{AC}$, and $\overline{BC}$, respectively, in $\triangle{ABC}$. We are also given that points $I$ and $G$ are the incenter and the centroid, respectively, of $\triangle{ABC}$; and that point $S$ is on $\overline{IG}$ so that $G$ is between $I$ and $S$ and $IG=2SG$. We will prove that $\angle{SMP}\cong\angle{SMN}$ and that point $S$ is the incenter of $\triangle{PMN}$. 
 
 We will start by proving that proving that $\overline{SM}\parallel\overline{AI}$. To do this, we can prove that $\triangle{SMG}\sim\triangle{IAG}$, as by CPCTC and alternate interior angle thm., we would be done. 
+ 
