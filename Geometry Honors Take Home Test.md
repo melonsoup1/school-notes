@@ -38,7 +38,8 @@ With this equation, we can conclude that $HM=MQ$, which proves that point $M$ is
 #### Problem 4 Proof:
 In the diagram, we are given triangle $\triangle{ABC}$, where points $D_1$, $E_1$, and $F_1$ are the intersections of the internal angle bisectors with the sides opposite vertices $A$, $B$, and $C$, respectively; and points $D_2$, $E_2$, and $F_2$ are the intersections of the external angle bisectors with the sides opposite vertices $A$, $B$, and $C$, respectively. Also, let $a=BC$, $b=AC$, and $c=AB$.
 
-We will start by noting that the main triangle to look at to solve this 
+We will start by noting that the main triangle to look at to solve this problem is triangle $\triangle{D_2E_1C}$, since we are able to use the exterior angle bisector theorem to observe that: $$\frac{BD_2}{D_2C}=\frac{c}{b}$$
+Since $\overline{D_2C}$ is a side in triangle $\triangle{D_2E_1C}$, 
 
 #### Problem 5 Proof:
 In the diagram, we are given that points $P$, $N$, and $M$ are the midpoints of $\overline{AB}$, $\overline{AC}$, and $\overline{BC}$, respectively, in $\triangle{ABC}$. We are also given that points $I$ and $G$ are the incenter and the centroid, respectively, of $\triangle{ABC}$; and that point $S$ is on $\overline{IG}$ so that $G$ is between $I$ and $S$ and $IG=2SG$. We will prove that $\angle{SMP}\cong\angle{SMN}$ and that point $S$ is the incenter of $\triangle{PMN}$. 
@@ -49,7 +50,7 @@ First, we will prove that $\overline{SM}\parallel\overline{AI}$. We know that $\
 
 Next, I extended $\overline{AI}$ and $\overline{SM}$ so that they intersect $\overline{PM}$ and $\overline{AN}$ at $Q$ and $R$, respectively. We just proved that $\overline{AQ}\parallel\overline{RM}$ and we know that $\overline{QM}\parallel\overline{AR}$ by the midsegment theorem, which gives us the parallelogram $QARM$. From this, we can reason that $\angle{SMP}\cong\angle{IAN}$ because opposite angles are congruent in a parallelogram. We already know that $\angle{NMP}\cong\angle{PAN}$, so by parts-whole, $\angle{SMN}\cong\angle{PAI}$. We know that $\angle{PAI}\cong\angle{IAN}$, so by transitivity, $\angle{SMP}\cong\angle{PAI}$. By even more transitivity, we conclude that $\angle{SMP}\cong\angle{SMN}$. Q.E.D.
 
-By the angle bisector theorem, we have proved that $\overline{MS}$ is the bisector of $\angle{PMN}$. To prove that $S$ is the incenter of $\triangle{PMN}$, we would simply apply what we did to prove that to a different segment, such as $\overline{NS}$. We will prove that $\angle{SNP}\cong\angle{SNM}$ the same way that we proved that $\angle{SMP}\cong\angle{SMN}$. 
+By the angle bisector theorem, we have proved that $\overline{MS}$ is the bisector of $\angle{PMN}$. To prove that $S$ is the incenter of $\triangle{PMN}$, we would simply apply what we did to prove that to a different segment, such as $\overline{NS}$. We will prove that $\angle{SNP}\cong\angle{SNM}$ the same way that we proved that $\angle{SMP}\cong\angle{SMN}$, because that will get us two angle bisectors that intersect at $S.$ 
 
 TL;DR: It's almost the same exact proof as in the first part, but replace some of the points and lines with what correspond with vertex $B$ and what you see in the diagram.
 
@@ -59,7 +60,7 @@ First, we will prove that $\overline{SN}\parallel\overline{BI}$. We know that $\
 
 Next, I extended $\overline{BI}$ and $\overline{SN}$ so that they intersect $\overline{PN}$ and $\overline{BM}$ at $X$ and $Y$, respectively. We just proved that $\overline{BX}\parallel\overline{YN}$ and we know that $\overline{XN}\parallel\overline{BY}$ by the midsegment theorem, which gives us the parallelogram $XBYN$. From this, we can reason that $\angle{SNP}\cong\angle{IBM}$ because opposite angles are congruent in a parallelogram. We already know that $\angle{PNM}\cong\angle{MBP}$, so by parts-whole, $\angle{SNM}\cong\angle{PBI}$. We know that $\angle{PBI}\cong\angle{IBM}$, so by transitivity, $\angle{SNP}\cong\angle{IBP}$. By even more transitivity, we conclude that $\angle{SNP}\cong\angle{SNP}$.
 
-By the angle bisector theorem, we have just proved that $\overline{NS}$ is the bisector of $\angle{PNM}$. We have already proved that the bisector of $\angle{NPM}$, $\overline{PS}$, will be concurrent with the other two angle bisectors $\overline{NS}$ and $\overline{SM}$ at point $S$, and with that, we conclude that $S$ is the incenter of $\triangle{PMN}$. Q.E.D
+By the angle bisector theorem, we have just proved that $\overline{NS}$ is the bisector of $\angle{PNM}$. We have already proved that the bisector of $\angle{NPM}$, $\overline{PS}$, will be concurrent with the other two angle bisectors $\overline{NS}$ and $\overline{SM}$ at point $S$, and with that, we conclude that $S$ is the incenter of $\triangle{PMN}$. Q.E.D.
 
 
 
