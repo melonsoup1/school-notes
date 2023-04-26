@@ -5,5 +5,25 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "spellcheckDictionary": [
+    "orthocenter",
+    "circumcenter",
+    "cevians",
+    "Ceva",
+    "circumcircle",
+    "circumcenter",
+    "orthocenter",
+    "circumcircle",
+    "incenter",
+    "incenter",
+    "incenter",
+    "incenter",
+    "Baobao",
+    "Kumble",
+    "incircle",
+    "Ceva",
+    "semiperimeter",
+    "Ceva"
+  ]
 }
