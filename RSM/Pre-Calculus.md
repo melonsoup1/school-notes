@@ -37,4 +37,5 @@ $$\log_b(b^a)=a$$
 $$b^{\log_ba}=a$$
 $$\log_b(\frac{1}{a})=-\log_b(a)$$
 
+# Probability
 
